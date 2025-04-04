@@ -52,7 +52,7 @@
     </td>
     <td>
       <a href="https://github.com/JaniduChamika/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniduChamika&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="janiduchamika's top languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniduChamika&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="JaniduChamika's top languages" />
       </a>
     </td>
   </tr>
