@@ -46,13 +46,13 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/janiduchamika/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=janiduchamika&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true" alt="janiduchamika's github stats" />
+      <a href="https://github.com/JaniduChamika/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=JaniduChamika&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true" alt="JaniduChamika's github stats" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/janiduchamika/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiduchamika&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="janiduchamika's top languages" />
+      <a href="https://github.com/JaniduChamika/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniduChamika&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="janiduchamika's top languages" />
       </a>
     </td>
   </tr>
