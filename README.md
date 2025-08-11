@@ -31,9 +31,9 @@
 </p>
 
 ---
-- 🌱 I’m currently learning **python,spring boots**
+- 🌱 I’m currently learning **python, MERN Stack**
 
-- 💬 Ask me about **Java,HTML,php**
+- 💬 Ask me about **Java, HTML, PHP, Kotlin**
 
 - 📫 How to reach me **janchamika1@gmail.com**
 
