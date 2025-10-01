@@ -4,7 +4,7 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=e8e8ff&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Janidu+Chamika!" alt="Typing SVG" />
 </h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AFB7F7&center=true&vCenter=true&width=1080&lines=BSc+(Hons)+Computer+Studies+undergrad+at+the+University+of+Kelaniya.;BEng+(Hons)+Software+Engineering++undergrad++at+IIC+University+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AFB7F7&center=true&vCenter=true&width=1080&lines=BSc+(Hons)+Computer+Studies+undergraduate+at+the+University+of+Kelaniya.;BEng+(Hons)+Software+Engineering++undergraduate++at+IIC+University+" alt="Typing SVG" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janiduchamika&label=Profile%20views&color=0e75b6&style=flat" alt="janiduchamika" /> </p>
 
 ### 🛠️ My Tech Arsenal
